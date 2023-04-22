@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /// 1. Sign Up / Sign In
+    <string name="lbl_password">Kata Sandi</string>
+    <string name="lbl_confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="lbl_sign_up">Registrasi</string>
+    <string name="lbl_sign_in">Masuk</string>
+    <string name="lbl_have_account">Sudah memiliki akun?</string>
+    <string name="lbl_not_have_account">Tidak memiliki akun?</string>
+
+    /// 2. Verify Email
+    <string name="lbl_verify">Verifikasi Email</string>
+    <string name="lbl_verify_desc">Kode konfirmasi telah dikirim ke %1$s</string>
+    <string name="lbl_verify_no_code">Tidak menerima kode?</string>
+    <string name="lbl_verify_resend"><u>Kirim ulang</u></string>
+    <string name="lbl_verify_code">Kode (6 digit)</string>
+    <string name="lbl_verify_btn">Verifikasi</string>
+    <string name="lbl_verify_change_email_btn">Ubah Email</string>
+
+    // 3. Home
+    <string name="lbl_home_collection">Koleksi kamu</string>
+    <string name="lbl_button_createmusic">Unggah musik</string>
+    <string name="lbl_button_createplaylist">Buat playlist</string>
+
+    // 4. Footer Navbar
+
+    <string name="lbl_footer_home">Beranda</string>
+    <string name="lbl_footer_explore">Explore</string>
+    <string name="lbl_footer_profile">Akun</string>
+
+    // 5. Playlist Creation
+    <string name="lbl_playlist_name">Nama playlist</string>
+    <string name="lbl_cover_image">Cover Playlist</string>
+    <string name="lbl_upload_text">Unggah</string>
+
+    // 6. upload Music Form
+    <string name="lbl_music_title">Judul lagu</string>
+    <string name="lbl_music_file">File lagu</string>
+
+    // general
+    <string name="lbl_back">Kembali</string>
+
+
+    // playlsit detail
+    <string name="playall">Putar</string>
+
+</resources>

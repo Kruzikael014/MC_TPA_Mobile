@@ -1,0 +1,71 @@
+<resources>
+    /// Non-translate stuffs
+
+    /// 1. Sign Up / Sign In
+    <string name="app_name" translatable="false">MuCiJCally</string>
+    <string name="lbl_username" translatable="false">Username</string>
+    <string name="lbl_email" translatable="false">Email</string>
+
+    /// Translate texts
+
+    /// 1. Sign Up / Sign In
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirm_password">Confirm Password</string>
+    <string name="lbl_sign_up">Sign Up</string>
+    <string name="lbl_sign_in">Sign In</string>
+    <string name="lbl_have_account">Already have account?</string>
+    <string name="lbl_not_have_account">Don\'t have account?</string>
+
+    /// 2. Verify Email
+    <string name="lbl_verify">Verify Email</string>
+    <string name="lbl_verify_desc">Confirmation has sent to </string>
+    <string name="lbl_verify_no_code">Don\'t receive code?</string>
+    <string name="lbl_verify_resend"><u>Resend Code</u></string>
+    <string name="lbl_verify_code">Code (6 digits)</string>
+    <string name="lbl_verify_btn">Verify</string>
+    <string name="lbl_verify_change_email_btn">Change Email</string>
+
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    Strings used for fragments for navigation
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    // 3. Home
+    <string name="lbl_home_collection">Your Collection</string>
+    <string name="lbl_button_createmusic">Upload music</string>
+    <string name="lbl_button_createplaylist">Create playlist</string>
+
+    // 4. Footer Navbar
+    <string name="lbl_footer_home">Home</string>
+    <string name="lbl_footer_explore">Explore</string>
+    <string name="lbl_footer_profile">Profile</string>
+
+    // 5. Playlist name
+    <string name="lbl_playlist_name">Playlist Name</string>
+    <string name="lbl_cover_image">Cover Image</string>
+    <string name="lbl_upload_text">Upload</string>
+
+    // 6. upload Music Form
+    <string name="lbl_music_title">Music Title</string>
+    <string name="lbl_music_file">Music File</string>
+
+    // General
+    <string name="lbl_back">Back</string>
+    <string name="music_uploader_const" translatable="false">Song ·</string>
+    <string name="playlist_uploader_const" translatable="false">Playlist ·</string>
+    <string name="duration_dummy" translatable="false">00:00</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Shows the currently playing music</string>
+
+
+    // playlsit detail
+    <string name="playall">Play all</string>
+
+</resources>
